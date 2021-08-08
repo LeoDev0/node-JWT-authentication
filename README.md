@@ -1,4 +1,12 @@
-# [Template] Fundamentos de JWT para uma autenticação mais segura
+### What is a JWT?
+- Stands for JSON Web Token and it's a secure way of transfer information between two parts.
+- It's a Stateless Authentication - information are in the token itself.
+
+### What you shouldn't do?
+- Expose too much information on the payload: password hashes, user sensitive data, etc.
+
+---
+# Fundamentos de JWT para uma autenticação mais segura
 
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
